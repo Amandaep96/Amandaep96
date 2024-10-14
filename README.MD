@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou Amanda Paiva</h1>
-<p align="justify">Sou Analista de Qualidade (QA) com experiência em testes de regressão, elaboração de relatórios de bugs e criação de casos de teste. Minha missão é garantir a qualidade de aplicativos e softwares, assegurando que eles atendam aos padrões antes de chegarem aos usuários finais. 
+<p align="justify">Sou <b> Analista de Qualidade</b> (QA) com experiência em <b>testes de regressão</b>, <b>elaboração de relatórios de bugs</b> e <b>criação de casos de teste</b>. Minha missão é garantir a <b>qualidade de aplicativos e softwares</b>, assegurando que eles atendam aos padrões antes de chegarem aos usuários finais. 
 
-Utilizo ferramentas como Jira, para gestão de tarefas e rastreamento de bugs, e Postman, para testes de API. Tenho conhecimento em metodologias ágeis, como Scrum e Kanban. Possuo habilidades em gestão de tempo e organização, permitindo-me priorizar tarefas e gerenciar múltiplos projetos simultaneamente. Sou atenta aos detalhes, garantindo que nenhum aspecto seja negligenciado. 
+Utilizo ferramentas como <b>Jira</b>, para gestão de tarefas e rastreamento de bugs, e <b>Postman</b>, para testes de API. Tenho conhecimento em <b>metodologias ágeis</b>, como Scrum e Kanban. Possuo habilidades em <b>gestão de tempo e organização</b>, permitindo-me priorizar tarefas e gerenciar múltiplos projetos simultaneamente. Sou atenta aos detalhes, garantindo que nenhum aspecto seja negligenciado. 
 
-Como QA terei uma abordagem organizada para resolução de problemas e uma capacidade de colaboração contínua com equipes multidisciplinares, sempre com foco na entrega de softwares de alta qualidade. Valorizo o aprendizado contínuo, buscando sempre aprimorar minhas habilidades e adotar as melhores práticas do setor. 
+Como QA terei uma abordagem organizada para <b>resolução de problemas</b> e uma capacidade de colaboração contínua com equipes multidisciplinares, sempre com foco na entrega de softwares de alta qualidade. Valorizo o aprendizado contínuo, buscando sempre aprimorar minhas habilidades e adotar as melhores práticas do setor. 
 
-Antes de ingressar na área de QA, trabalhei como veterinária, o que me proporcionou habilidades valiosas que aplico diariamente, como resolução de problemas sob pressão, trabalho em equipe, aprendizado contínuo e raciocínio crítico e analítico. Essas competências me ajudam a enfrentar desafios complexos e a contribuir efetivamente para a qualidade dos produtos em que trabalho. 
+Antes de ingressar na área de QA, trabalhei como veterinária, o que me proporcionou habilidades valiosas que aplico diariamente, como <b>resolução de problemas sob pressão, trabalho em equipe, aprendizado contínuo e raciocínio crítico e analítico</b>. Essas competências me ajudam a enfrentar desafios complexos e a contribuir efetivamente para a qualidade dos produtos em que trabalho. 
 
-Meu objetivo principal como Analista de Qualidade é garantir que cada produto entregue seja funcional, confiável e atenda às expectativas dos usuários.</h3>
+Meu objetivo principal como Analista de Qualidade é garantir que cada produto entregue seja <b>funcional, confiável e atenda às expectativas dos usuários</b>.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
