@@ -1,13 +1,11 @@
 <h1 align="center">Olá, eu sou Amanda Paiva</h1>
-<p align="justify">Sou <b> Analista de Qualidade</b> (QA) com experiência em <b>testes de regressão</b>, <b>elaboração de relatórios de bugs</b> e <b>criação de casos de teste</b>. Minha missão é garantir a <b>qualidade de aplicativos e softwares</b>, assegurando que eles atendam aos padrões antes de chegarem aos usuários finais. 
+<p align="justify">Sou <b>Desenvolvedora de Software</b> com formação pelo CESAE Digital, onde participei de projetos práticos voltados para aplicações web e mobile. Tenho experiência com linguagens como PHP, JavaScript, C#, Kotlin, além de tecnologias como Laravel, Android Studio, HTML, CSS, SQL e Git. Valorizo a escrita de código limpo, a organização de processos e a clareza na documentação técnica. 
 
-<p align="justify">Utilizo ferramentas como <b>Jira</b>, para gestão de tarefas e rastreamento de bugs, e <b>Postman</b>, para testes de API. Tenho conhecimento em <b>metodologias ágeis</b>, como Scrum e Kanban. Possuo habilidades em <b>gestão de tempo e organização</b>, permitindo-me priorizar tarefas e gerenciar múltiplos projetos simultaneamente. Sou atenta aos detalhes, garantindo que nenhum aspecto seja negligenciado. 
+<p align="justify">Minha jornada na área de tecnologia começou com uma formação em testes de software, onde aprendi sobre testes manuais, regressão, validação de APIs com Postman, documentação de bugs em Jira e conceitos ligados a metodologias ágeis como Scrum e Kanban. Essa etapa me ajudou a desenvolver uma visão crítica sobre a qualidade de produtos digitais e a importância de processos bem estruturados.. 
 
-<p align="justify">Como QA terei uma abordagem organizada para <b>resolução de problemas</b> e uma capacidade de colaboração contínua com equipes multidisciplinares, sempre com foco na entrega de softwares de alta qualidade. Valorizo o aprendizado contínuo, buscando sempre aprimorar minhas habilidades e adotar as melhores práticas do setor. 
+<p align="justify">Antes da tecnologia, atuei por cinco anos como médica veterinária, experiência que me ensinou a lidar com situações de alta exigência, resolver problemas sob pressão e manter o foco nos detalhes. Essas habilidades se mantêm fundamentais no meu dia a dia como desenvolvedora 
 
-<p align="justify">Antes de ingressar na área de QA, trabalhei como veterinária, o que me proporcionou habilidades valiosas que aplico diariamente, como <b>resolução de problemas sob pressão, trabalho em equipe, aprendizado contínuo e raciocínio crítico e analítico</b>. Essas competências me ajudam a enfrentar desafios complexos e a contribuir efetivamente para a qualidade dos produtos em que trabalho. 
-
-<p align="justify">Meu objetivo principal como Analista de Qualidade é garantir que cada produto entregue seja <b>funcional, confiável e atenda às expectativas dos usuários</b>.</h3>
+<p align="justify">Acredito em aprendizado contínuo e valorizo ambientes colaborativos onde posso evoluir como desenvolvedora. Meu foco está em criar soluções funcionais, bem estruturadas e que atendam às necessidades reais dos usuários..</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
