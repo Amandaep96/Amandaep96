@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Amanda Paiva</h1>
-<p align="justify">Sou <b>Desenvolvedora de Software</b> com formação pelo CESAE Digital, onde participei de projetos práticos voltados para aplicações web e mobile. Tenho experiência com linguagens como PHP, JavaScript, C#, Kotlin, além de tecnologias como Laravel, Android Studio, HTML, CSS, SQL e Git. Valorizo a escrita de código limpo, a organização de processos e a clareza na documentação técnica. 
+<p align="justify">Sou <b>Desenvolvedora de Software</b> com formação pelo CESAE Digital, onde participei de projetos práticos voltados para aplicações web e mobile. Tenho experiência com linguagens como PHP, JavaScript, C#, além de tecnologias como Laravel, HTML, CSS, SQL e Git. Valorizo a escrita de código limpo, a organização de processos e a clareza na documentação técnica. 
 
 <p align="justify">Minha jornada na área de tecnologia começou com uma formação em testes de software, onde aprendi sobre testes manuais, regressão, validação de APIs com Postman, documentação de bugs em Jira e conceitos ligados a metodologias ágeis como Scrum e Kanban. Essa etapa me ajudou a desenvolver uma visão crítica sobre a qualidade de produtos digitais e a importância de processos bem estruturados.. 
 
